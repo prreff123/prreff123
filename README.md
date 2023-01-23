@@ -3,17 +3,17 @@
 
 <!-- **prreff123/prreff123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Github
-- 🌱 I’m currently learning DSA
+<!-- - 🔭 I’m currently working on Github -->
+<!-- - 🌱 I’m currently learning DSA -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Django, Python
+<!-- - 💬 Ask me about Django, Python -->
 - 📫 How to reach me: priyanshujain09062003@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Django Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prreff123&label=Profile%20views&color=0e75b6&style=flat" alt="prreff123" /> </p>
 
