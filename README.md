@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![An image of @preff123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preff123)](https://holopin.io/@preff123)
+
+Connect With:
+https://www.linkedin.com/in/priyanshu-jain-395950207/
+https://www.hackerrank.com/priyanshujain091
